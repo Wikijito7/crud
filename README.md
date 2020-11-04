@@ -19,14 +19,14 @@ Just a simple crud. It's responsive!
  
 ## Setting it up
   * Docker
-    All needed files for Docker are within the repository. You download everything, _cd_ to the proyect and run _docker-compose up_. It will do the rest.
+    * All needed files for Docker are within the repository. You download everything, _cd_ to the proyect and run _docker-compose up_. It will do the rest.
   
   * Manual
-    First of all, make sure that you have installed MySQL/MariaDB server, PHP and PHP-Mysql. Also, you need a web server like _Apache_ or _Nginx_
+    * First of all, make sure that you have installed MySQL/MariaDB server, PHP and PHP-Mysql. Also, you need a web server like _Apache_ or _Nginx_
   
-    After that, drop everything that is on _codigo-php_ folder in _/var/www/html_.
+    * After that, drop everything that is on _codigo-php_ folder in _/var/www/html_.
   
-    Create every table needed using your favorite way to interact with MySQL. You can get the minimum code needed to make this CRUD work on _db-init_ folder.
+    * Create every table needed using your favorite way to interact with MySQL. You can get the minimum code needed to make this CRUD work on _db-init_ folder.
     
-    Aaand it's done! Now you can use this CRUD however you like.
+    * Aaand it's done! Now you can use this CRUD however you like.
     
