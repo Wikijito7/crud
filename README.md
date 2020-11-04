@@ -1,10 +1,10 @@
 # Crud
 Just a simple crud. It's responsive!
 
-## Main language:
+## Main language
  * PHP
 
-## Required in order to work:
+## Required to work
  * PHP 7.0 or higher.
  * Mysql or MariaBD
  * PHP-MySQL
