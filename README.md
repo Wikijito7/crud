@@ -19,7 +19,7 @@ Just a simple crud. It's responsive!
  
 ## Setting it up
   * Docker
-    * All needed files for Docker are within the repository. You download everything, _cd_ to the proyect and run _docker-compose up_. It will do the rest.
+    * All needed files for Docker are within the repository. You download everything, _cd_ to the project and run _docker-compose up_. It will do the rest.
   
   * Manual
     * First of all, make sure that you have installed MySQL/MariaDB server, PHP and PHP-Mysql. Also, you need a web server like _Apache_ or _Nginx_
