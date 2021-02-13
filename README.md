@@ -31,17 +31,20 @@ Just a simple crud. It's responsive!
     * Aaand it's done! Now you can use this CRUD however you like.
 
 ## Sneak pick
-- Log in
+### Log in
 ~~~
 Username: usuario
 password: usuario
 ~~~
 ![Imagen del login de la aplicación](/images/login.png)
-- Main. Where everything happens!
+
+### Main. Where everything happens!
 ![Imagen de la pantalla principal](/images/datos.png)
-- Modal form when you are going to add a new book.
+
+### Modal form when you are going to add a new book.
 ![Imagen del modal añadir datos](/images/add-book.png)
-- Modal box when you try to remove a book.
+
+### Modal box when you try to remove a book.
 ![Imagen del modal borrar datos](/images/remove.png)
 
 ## License
