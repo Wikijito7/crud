@@ -48,4 +48,4 @@ password: usuario
 ![Imagen del modal borrar datos](/images/remove.png)
 
 ## License
-This project is free to use! It isn't necesary to mencion me, but it would be nice.
+This project is free to use! It isn't necesary to mention me, but it would be nice.
