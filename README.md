@@ -29,7 +29,18 @@ Just a simple crud. It's responsive!
     * Create every table needed using your favorite way to interact with MySQL. You can get the minimum code needed to make this CRUD work on _db-init_ folder.
     
     * Aaand it's done! Now you can use this CRUD however you like.
-    
+
+## Sneak pick
+- Log in
+`Username: usuario
+password: usuario`
+![Imagen del login de la aplicación](/images/login.png)
+- Main. Where everything happens!
+![Imagen de la pantalla principal](/images/main.png)
+- Modal form when you are going to add a new book.
+![Imagen del modal añadir datos](/images/add.png)
+- Modal box when you try to remove a book.
+![Imagen del modal borrar datos](/images/remove.png)
+
 ## License
 This project is free to use! It isn't necesary to mencion me, but it would be nice.
-
