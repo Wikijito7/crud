@@ -5,9 +5,9 @@ Just a simple crud. It's responsive!
  * PHP
 
 ## Required to work
- * PHP 7.0 or higher.
- * Mysql or MariaBD
- * PHP-MySQL
+ * _PHP_ 7.0 or higher.
+ * _MySQL_ or MariaBD
+ * _PHP-MySQL_
  
 ## How it works
 
@@ -19,7 +19,7 @@ Just a simple crud. It's responsive!
  
 ## Setting it up
   * Docker
-    * All needed files for Docker are within the repository. You download everything, _cd_ to the project and run _docker-compose up_. It will do the rest.
+    * All needed files for Docker are within the repository. You download everything, _cd_ to the project and run `docker-compose up`. It will do the rest.
   
   * Manual
     * First of all, make sure that you have installed MySQL/MariaDB server, PHP and PHP-Mysql. Also, you need a web server like _Apache_ or _Nginx_
@@ -30,3 +30,6 @@ Just a simple crud. It's responsive!
     
     * Aaand it's done! Now you can use this CRUD however you like.
     
+## License
+This project is free to use! It isn't necesary to mencion me, but it would be nice.
+
