@@ -1,8 +1,17 @@
 # Crud
 Just a simple crud. It's responsive!
 
+
+
 ## Main language
  * PHP
+
+## Index
+* [Required to work](https://github.com/Wikijito7/crud#required-to-work)
+* [How it works](https://github.com/Wikijito7/crud#how-it-works)
+* [Setting it up](https://github.com/Wikijito7/crud#setting-it-up)
+* [Sneak pick](https://github.com/Wikijito7/crud#sneak-pick)
+* [License](https://github.com/Wikijito7/crud#sneak-pick)
 
 ## Required to work
  * _PHP_ 7.0 or higher.
